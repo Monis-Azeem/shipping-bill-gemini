@@ -1,0 +1,5 @@
+{
+  "name": "PDF Data Extractor Pro",
+  "description": "An application to upload multiple PDF files, perform OCR and data extraction using Gemini 2.5 Pro, and export the aggregated data into an Excel file. Note: Processing a large number of files (500+) may be slow or unstable in the browser; processing in smaller batches is recommended.",
+  "requestFramePermissions": []
+}
